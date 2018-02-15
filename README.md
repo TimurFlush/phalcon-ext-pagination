@@ -1,2 +1,2 @@
 
-The library is designed for internationalized sites.
+The pagination extension of the Phalcon framework.
