@@ -1,0 +1,21 @@
+{
+  "name": "timur-flush/phalcon-ext-pagination",
+  "description": "The pagination extension of the Phalcon framework.",
+  "license": "Apache-2.0",
+  "minimum-stability": "stable",
+  "authors": [
+    {
+      "name": "flush02"
+    }
+  ],
+  "require": {
+    "php": "^7.1.0",
+    "AmsTaFFix/pagination": "^1.1.3",
+    "ext-phalcon": "^3.3.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "TimurFlush\\PhalconExtPagination\\": "src/"
+    }
+  }
+}
